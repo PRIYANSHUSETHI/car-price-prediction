@@ -119,10 +119,3 @@ predicted_price = model.predict(sim_input)
 - Inspired by real-world car marketplaces
 - Dataset from public ML resources (e.g., Kaggle)
 
----
-
-## 📬 Contact
-
-For any inquiries or collaboration opportunities, feel free to connect:
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
